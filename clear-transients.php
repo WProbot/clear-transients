@@ -6,7 +6,7 @@ Description: A simple plugin to clear transients and site-transients during deve
 Author: Ryan Duff
 Author URI: http://ryanduff.net
 Version: 1.0
-License: GPL2+
+License: WTFPL
 */
 
 class WP_Clear_Transients {
